@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **madhavgarg90/madhavgarg90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +8,7 @@
 
 ### 🧠 About Me
 I'm an aspiring computer engineer passionate about solving real-world problems.  
-From organizing national-level hackathons and co-curating a startup guidebook to building ML models and hardware-software projects, I love blending creativity with technical depth.
+From organizing hackathons and co-curating a startup guidebook to building ML models and hardware-software projects, I love blending creativity with technical depth.
 
 I have a **strong foundation in Data Structures & Algorithms (DSA)** and **C++**, and I enjoy building scalable, meaningful solutions across domains. Always exploring, always building. 🚀
 
@@ -21,11 +19,6 @@ I have a **strong foundation in Data Structures & Algorithms (DSA)** and **C++**
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -49,10 +42,10 @@ I have a **strong foundation in Data Structures & Algorithms (DSA)** and **C++**
 ### 🤝 Let's Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/madhav-garg-981a1a211/" target="_blank">
+  <a href="(https://www.linkedin.com/in/gargmadhav90/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:madhavm1803@gmail.com">
+  <a href="mailto:gargmadhav90@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
