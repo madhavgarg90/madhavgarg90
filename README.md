@@ -1,4 +1,3 @@
-<!--
 **madhavgarg90/madhavgarg90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi there 👋, I'm Madhav Garg</h1>
@@ -15,33 +14,13 @@ I have a **strong foundation in Data Structures & Algorithms (DSA)** and **C++**
 ---
 
 ### 🛠️ Tech Stack
-
 <p align="left">
-  <!-- Core Languages & Tools -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- ML & Data Science -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-
-  <!-- Database -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-  <!-- R Language -->
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-
-  <!-- Hardware & Tools -->
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -50,14 +29,14 @@ I have a **strong foundation in Data Structures & Algorithms (DSA)** and **C++**
 
 - Competitive Programming (LeetCode, GFG)
 - Machine Learning Model Development
-- Data Science and Analysis Techniques
+- Data Analysis Techniques
 
 ---
 
 ### 🤝 Let's Connect!
 
 <p>
-  <a href="(https://www.linkedin.com/in/gargmadhav90/)" target="_blank">
+  <a href="https://www.linkedin.com/in/gargmadhav90/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gargmadhav90@gmail.com">
@@ -68,7 +47,5 @@ I have a **strong foundation in Data Structures & Algorithms (DSA)** and **C++**
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavm1803&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavgarg90&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
--->
