@@ -25,9 +25,10 @@ I have a **strong foundation in Data Structures & Algorithms (DSA)** and **C++**
 
 ### 🌱 Currently Learning
 
-💡 Competitive Programming (LeetCode, GFG)
-🧠 Machine Learning: Building and training smart models
-📊 Data Science: Analyzing and extracting features from data
+💡 **Competitive Programming**: LeetCode, GFG  
+🧠 **Machine Learning**: Building and training smart models  
+📊 **Data Science**: Analyzing and extracting features from data  
+
 
 ---
 
