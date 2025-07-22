@@ -1,5 +1,3 @@
-**madhavgarg90/madhavgarg90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi there 👋, I'm Madhav Garg</h1>
 <h3 align="center">Aspiring Computer Engineer | Problem Solver | Tech Explorer</h3>
 
@@ -27,9 +25,9 @@ I have a **strong foundation in Data Structures & Algorithms (DSA)** and **C++**
 
 ### 🌱 Currently Learning
 
-- Competitive Programming (LeetCode, GFG)
-- Machine Learning Model Development
-- Data Analysis Techniques
+💡 Competitive Programming (LeetCode, GFG)
+🧠 Machine Learning: Building and training smart models
+📊 Data Science: Analyzing and extracting features from data
 
 ---
 
@@ -47,5 +45,5 @@ I have a **strong foundation in Data Structures & Algorithms (DSA)** and **C++**
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavgarg90&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <em>"Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson</em>
 </p>
